@@ -9,11 +9,16 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ainsleybernard/import-vrdb-data.git"
-},
+  },
   "author": "Ainsley Bernard",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ainsleybernard/import-vrdb-data/issues"
   },
-"homepage": "https://github.com/ainsleybernard/import-vrdb-data#readme"
+  "homepage": "https://github.com/ainsleybernard/import-vrdb-data#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "aws-sdk": "^2.276.1",
+    "csv-parse": "^2.5.0"
+  }
 }
