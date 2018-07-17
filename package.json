@@ -1,0 +1,19 @@
+{
+  "name": "import-vrdb-data",
+  "version": "1.0.0",
+  "description": "A script to import the VRDB data into DynamoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainsleybernard/import-vrdb-data.git"
+},
+  "author": "Ainsley Bernard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ainsleybernard/import-vrdb-data/issues"
+  },
+"homepage": "https://github.com/ainsleybernard/import-vrdb-data#readme"
+}
